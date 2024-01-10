@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vatsaljadav
-- 🌱 I’m Backend developer(Node.js) & Devops.
+- 🌱 I’m Backend developer(Node.js) & Devops Engineer.
 - 👨🏼‍💻 I’m looking to collaborate on Backnend projects , Deployment and Operations.  
 - 📫 How to reach me
 - 👨‍🎓 Linkedin : https://www.linkedin.com/in/vatsal-jadav-61a495205/
